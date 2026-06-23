@@ -283,7 +283,7 @@ async function saveUserData(mobile, kind, value) {
     return;
   }
   await fetch(
-    `${API}/saveUserData`,
+    "http://localhost:5000/saveUserData",
     {
       method: "POST",
       headers: {
