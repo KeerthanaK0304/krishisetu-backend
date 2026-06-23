@@ -283,7 +283,7 @@ async function saveUserData(mobile, kind, value) {
     return;
   }
   await fetch(
-    "http://localhost:5000/saveUserData",
+    `${API}/saveUserData`,
     {
       method: "POST",
       headers: {
@@ -410,7 +410,7 @@ function parseRateValue(rateStr) {
 async function getTransportBookings() {
 
   const res = await fetch(
-    "http://localhost:5000/loadTransportBookings"
+    "https://krishisetu-backend-ukvm.onrender.com/loadTransportBookings"
   );
 
   return await res.json();
@@ -419,7 +419,7 @@ async function getTransportBookings() {
 async function saveTransportBookings(bookings) {
 
   await fetch(
-    "http://localhost:5000/saveTransportBookings",
+    "https://krishisetu-backend-ukvm.onrender.com/saveTransportBookings",
     {
       method: "POST",
       headers: {

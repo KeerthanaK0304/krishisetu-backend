@@ -36,7 +36,8 @@ forumID      = 'd733e328-8fc4-4601-ac4f-691530131cc2'
 TemplateID   = ''   # set after login from Admin.txt
 
 app = Flask(__name__)
-CORS(app)
+CORS(app, supports_credentials=True)
+
 
 # ── Data paths ────────────────────────────────────────────────────────────────
 BASE_DIR     = os.path.dirname(os.path.abspath(__file__))
@@ -564,8 +565,10 @@ def save_user_data():
     return jsonify({
         "success": True
     })
-
-@app.route("/loadUserData/<mobile>")
+@app.route(
+    "/loadUserData/<mobile>",
+    methods=["GET", "OPTIONS"]
+)
 def load_user_data(mobile):
 
     data = load_data()

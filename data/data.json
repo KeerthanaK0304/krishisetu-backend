@@ -33,7 +33,12 @@
       "passHash": "MTIzNDU="
     },
     "9988776655": {
-      "passHash": "MTIzNDU="
+      "passHash": "MTIzNDU=",
+      "name": "ekfj",
+      "district": "Dakshina Kannada",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T16:54:24.566960"
     },
     "9999999999": {
       "passHash": "MTIzNDU="
