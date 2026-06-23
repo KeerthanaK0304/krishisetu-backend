@@ -2402,17 +2402,18 @@ def run_signals():
 
 from threading import Thread
 
-def run_api():
+import os
+
+if __name__ == "__main__":
+    Thread(
+        target=go,
+        daemon=True
+    ).start()
+
+    port = int(os.environ.get("PORT", 5000))
+
     app.run(
         host="0.0.0.0",
-        port=5000,
-        debug=False
+        port=port
     )
-
-Thread(
-    target=run_api,
-    daemon=True
-).start()
-
-go()
 # End of bot code
