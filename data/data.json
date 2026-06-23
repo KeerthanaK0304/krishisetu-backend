@@ -1,0 +1,1111 @@
+{
+  "users": {
+    "1234567809": {
+      "passHash": "MTIzNDU="
+    },
+    "1234567890": {
+      "passHash": "MTIzNA==",
+      "name": "testing",
+      "district": "Ballari",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T15:35:46.029338"
+    },
+    "5544332211": {
+      "passHash": "MTIzNDU="
+    },
+    "7777777777": {
+      "passHash": "MTExMTE="
+    },
+    "8888888888": {
+      "passHash": "MDAwMDA="
+    },
+    "8888888889": {
+      "passHash": "MTIzNDU="
+    },
+    "8989898989": {
+      "passHash": "ODg4ODg="
+    },
+    "9898989898": {
+      "passHash": "MDAwMDA="
+    },
+    "9977553311": {
+      "passHash": "MTIzNDU="
+    },
+    "9988776655": {
+      "passHash": "MTIzNDU="
+    },
+    "9999999999": {
+      "passHash": "MTIzNDU="
+    },
+    "8787878787": {
+      "passHash": "ODg4ODg="
+    },
+    "6767667666": {
+      "passHash": "1234",
+      "name": "ZZZ",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T13:59:11.016127"
+    },
+    "6767666777": {
+      "passHash": "12345",
+      "name": "TTT",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T14:04:30.965282"
+    },
+    "6766776766": {
+      "passHash": "76766",
+      "name": "RRR",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T14:15:48.044606"
+    },
+    "6677777777": {
+      "passHash": "677777",
+      "name": "UUU",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T14:19:20.389546"
+    },
+    "6766667777": {
+      "passHash": "6766666",
+      "name": "YYYY",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T14:23:24.046772"
+    },
+    "9879879879": {
+      "passHash": "1234",
+      "name": "YYYY",
+      "district": "Davanagere",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T14:40:15.492329"
+    },
+    "8999999999": {
+      "passHash": "0000",
+      "name": "RRRR",
+      "district": "Bengaluru Urban",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T14:47:23.007635"
+    },
+    "8999999998": {
+      "passHash": "MDAwMA==",
+      "name": "TTT",
+      "district": "Chitradurga",
+      "role": "farmer",
+      "activeRoles": "[\"farmer\"]",
+      "registeredAt": "2026-06-23T14:53:24.426952"
+    },
+    "9898999999": {
+      "passHash": "MTIzNA==",
+      "name": "VenuGopi",
+      "district": "Chitradurga",
+      "role": "storage",
+      "activeRoles": "[\"storage\"]",
+      "registeredAt": "2026-06-23T15:16:47.937616"
+    },
+    "9879879877": {
+      "passHash": "MTIzNA==",
+      "name": "TTT",
+      "district": "Chitradurga",
+      "role": "transport",
+      "activeRoles": "[\"transport\"]",
+      "registeredAt": "2026-06-23T15:38:29.294963"
+    }
+  },
+  "profiles": {
+    "8888888888": {
+      "mobile": "8888888888",
+      "name": "Desai",
+      "district": "Mandya",
+      "role": "storage",
+      "activeRoles": [
+        "storage"
+      ],
+      "registeredAt": "2026-06-22T09:39:01.357Z"
+    },
+    "7777777777": {
+      "mobile": "7777777777",
+      "name": "Sai",
+      "district": "Mysuru",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-22T09:40:39.387Z"
+    },
+    "9999999999": {
+      "activeRoles": [
+        "storage"
+      ],
+      "district": "Chitradurga",
+      "mobile": "9999999999",
+      "name": "kk",
+      "registeredAt": "2026-06-22T10:55:08.176Z",
+      "role": "storage"
+    },
+    "8888888889": {
+      "mobile": "8888888889",
+      "name": "ramesh",
+      "district": "Chitradurga",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-22T11:23:18.881Z"
+    },
+    "1234567890": {
+      "mobile": "1234567890",
+      "name": "kw",
+      "district": "Gadag",
+      "role": "transport",
+      "activeRoles": [
+        "transport"
+      ],
+      "registeredAt": "2026-06-22T11:45:13.044Z"
+    },
+    "1234567809": {
+      "mobile": "1234567809",
+      "name": "gh",
+      "district": "Dharwad",
+      "role": "trader",
+      "activeRoles": [
+        "trader"
+      ],
+      "registeredAt": "2026-06-22T11:46:46.590Z"
+    },
+    "8989898989": {
+      "mobile": "8989898989",
+      "name": "Venu",
+      "district": "Mysuru",
+      "role": "storage",
+      "activeRoles": [
+        "storage"
+      ],
+      "registeredAt": "2026-06-23T04:57:39.012Z"
+    },
+    "8787878787": {
+      "mobile": "8787878787",
+      "name": "Ram",
+      "district": "Hassan",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T06:10:45.408Z"
+    },
+    "6767676767": {
+      "mobile": "6767676767",
+      "name": "XXX",
+      "district": "Davanagere",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T07:02:28.798Z"
+    },
+    "6767676766": {
+      "mobile": "6767676766",
+      "name": "YYY",
+      "district": "Bagalkot",
+      "role": "storage",
+      "activeRoles": [
+        "storage"
+      ],
+      "registeredAt": "2026-06-23T07:05:59.137Z"
+    },
+    "6767666666": {
+      "mobile": "6767666666",
+      "name": "WWW",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T07:12:46.432Z"
+    },
+    "6666677777": {
+      "mobile": "6666677777",
+      "name": "UUU",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T07:17:04.128Z"
+    },
+    "6766667777": {
+      "mobile": "6766667777",
+      "name": "YYYY",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T08:53:22.932Z"
+    },
+    "6767676677": {
+      "mobile": "6767676677",
+      "name": "YYY",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T07:22:09.058Z"
+    },
+    "6677766677": {
+      "mobile": "6677766677",
+      "name": "YYY",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T08:03:24.978Z"
+    },
+    "6767667666": {
+      "mobile": "6767667666",
+      "name": "ZZZ",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T08:29:00.965Z"
+    },
+    "6767666777": {
+      "mobile": "6767666777",
+      "name": "TTT",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T08:34:26.792Z"
+    },
+    "6766776766": {
+      "mobile": "6766776766",
+      "name": "RRR",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T08:45:39.318Z"
+    },
+    "6677777777": {
+      "mobile": "6677777777",
+      "name": "UUU",
+      "district": "Bagalkot",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T08:49:11.784Z"
+    },
+    "9879879879": {
+      "mobile": "9879879879",
+      "name": "YYYY",
+      "district": "Davanagere",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T09:10:13.646Z"
+    },
+    "8999999999": {
+      "mobile": "8999999999",
+      "name": "RRRR",
+      "district": "Bengaluru Urban",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T09:17:18.282Z"
+    },
+    "8999999998": {
+      "mobile": "8999999998",
+      "name": "TTT",
+      "district": "Chitradurga",
+      "role": "farmer",
+      "activeRoles": [
+        "farmer"
+      ],
+      "registeredAt": "2026-06-23T09:23:20.602Z"
+    },
+    "9898999999": {
+      "mobile": "9898999999",
+      "name": "VenuGopi",
+      "district": "Chitradurga",
+      "role": "storage",
+      "activeRoles": [
+        "storage"
+      ],
+      "registeredAt": "2026-06-23T09:46:45.318Z"
+    },
+    "9879879877": {
+      "mobile": "9879879877",
+      "name": "TTT",
+      "district": "Chitradurga",
+      "role": "transport",
+      "activeRoles": [
+        "transport"
+      ],
+      "registeredAt": "2026-06-23T10:08:20.502Z"
+    }
+  },
+  "activity": {
+    "5544332211": [],
+    "9988776655": [],
+    "9977553311": [],
+    "9898989898": [
+      {
+        "id": "mqq81qiafbb8a6xvz7h",
+        "type": "storage",
+        "label": "Stored Cabbage \u00b7 15 MT",
+        "sub": "AgroFreeze \u00b7 7 days",
+        "at": "2026-06-23T05:46:29.362Z"
+      },
+      {
+        "id": "mqq81f3z41qu48pau76",
+        "type": "crop",
+        "label": "Added Cabbage \u00b7 15 MT",
+        "sub": "Mysore \u00b7 Mysuru",
+        "at": "2026-06-23T05:46:14.591Z"
+      },
+      {
+        "at": "2026-06-23T05:41:16.759Z",
+        "id": "mqq7v1ave6f590th7nu",
+        "label": "Added Mango \u00b7 10 MT",
+        "sub": "Mandya \u00b7 Mandya",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-23T05:35:28.888Z",
+        "id": "mqq7nkvsmxa2mzhv3we",
+        "label": "Stored Beans \u00b7 10 MT",
+        "sub": "AgroFreeze \u00b7 30 days",
+        "type": "storage"
+      },
+      {
+        "at": "2026-06-23T05:35:11.805Z",
+        "id": "mqq7n7p9v9sxe5lzyno",
+        "label": "Added Beans \u00b7 10 MT",
+        "sub": "Mysuru \u00b7 Mysuru",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-23T05:12:16.904Z",
+        "id": "mqq6tqtk46pe2d94lys",
+        "label": "Stored Banana \u00b7 100 MT",
+        "sub": "AgroFreeze \u00b7 7 days",
+        "type": "storage"
+      },
+      {
+        "at": "2026-06-23T05:07:05.690Z",
+        "id": "mqq6n2oq9tk796pl63i",
+        "label": "Added Banana \u00b7 100 MT",
+        "sub": "Mysuru \u00b7 Mysuru",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:45:03.281Z",
+        "id": "mqp39ub5d5fsdda0lfh",
+        "label": "Added Onion \u00b7 7 MT",
+        "sub": "Kalaburgi \u00b7 Kalaburagi",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:44:28.749Z",
+        "id": "mqp393nxjxlh3zdqcmp",
+        "label": "Added Mango \u00b7 9 MT",
+        "sub": "Dharwad \u00b7 Dharwad",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:43:49.530Z",
+        "id": "mqp389eie86wdc3l8xk",
+        "label": "Added Cabbage \u00b7 9 MT",
+        "sub": "Haveri \u00b7 Haveri",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:42:22.466Z",
+        "id": "mqp36e82hi495g4ydof",
+        "label": "Added Banana \u00b7 9 MT",
+        "sub": "Koppal \u00b7 Koppal",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:23:34.238Z",
+        "id": "mqp2i7oe6mwgm8zn8in",
+        "label": "Added Potato \u00b7 1 MT",
+        "sub": "Davanagere \u00b7 Davanagere",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:23:02.396Z",
+        "id": "mqp2hj3wklxtprmyu8a",
+        "label": "Added Potato \u00b7 10 MT",
+        "sub": "Mandya \u00b7 Mandya",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:20:27.305Z",
+        "id": "mqp2e7ft3d0wxel75vc",
+        "label": "Added Cabbage \u00b7 10 MT",
+        "sub": "Kolar \u00b7 Kolar",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:13:29.425Z",
+        "id": "mqp2590125rwlv0bmjv",
+        "label": "Added Beans \u00b7 15 MT",
+        "sub": "Kolar \u00b7 Kolar",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:06:16.997Z",
+        "id": "mqp1vzc5yxrmj0if0d9",
+        "label": "Added Tomato \u00b7 8 MT",
+        "sub": "Dharward \u00b7 Dharwad",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T10:00:59.483Z",
+        "id": "mqp1p6cbpspnkchfj5d",
+        "label": "Added Mango \u00b7 5 MT",
+        "sub": "Mandya \u00b7 Mandya",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T09:58:54.400Z",
+        "id": "mqp1mhtsy9re40i8zcm",
+        "label": "Added Mango \u00b7 10 MT",
+        "sub": "Mysuru \u00b7 Mysuru",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T07:10:05.123Z",
+        "id": "mqovle0zhb9znzmrxe5",
+        "label": "Added Onion \u00b7 10 MT",
+        "sub": "Gadag \u00b7 Gadag",
+        "type": "crop"
+      }
+    ],
+    "8888888888": [
+      {
+        "at": "2026-06-22T09:39:58.989Z",
+        "id": "mqp0y5ql4pjwohxjezr",
+        "label": "Registered as AgroFreeze",
+        "sub": "Submitted to KrishiSetu",
+        "type": "business"
+      }
+    ],
+    "7777777777": [
+      {
+        "at": "2026-06-22T09:52:50.403Z",
+        "id": "mqp1eoyrnbu8lwwfrca",
+        "label": "Added Tomato \u00b7 10 MT",
+        "sub": "Dharwad \u00b7 Dharwad",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T09:44:43.117Z",
+        "id": "mqp148z1vhj9ytva73",
+        "label": "Added Cabbage \u00b7 14 MT",
+        "sub": "Mysuru \u00b7 Mysuru",
+        "type": "crop"
+      }
+    ],
+    "9999999999": [
+      {
+        "at": "2026-06-22T11:22:47.875Z",
+        "id": "mqp4mdojx3ds00ji2nb",
+        "label": "Registered as refreezer",
+        "sub": "Submitted to KrishiSetu",
+        "type": "business"
+      },
+      {
+        "at": "2026-06-22T10:57:11.380Z",
+        "id": "mqp3pg44hzj8mdv5j8o",
+        "label": "Registered as freezer",
+        "sub": "Submitted to KrishiSetu",
+        "type": "business"
+      }
+    ],
+    "8888888889": [
+      {
+        "id": "mqp6a3tmm4g0iflik0m",
+        "type": "storage",
+        "label": "Stored Potato \u00b7 3 MT",
+        "sub": "freezer \u00b7 7 days",
+        "at": "2026-06-22T12:09:14.458Z"
+      },
+      {
+        "id": "mqp69ow9dr4ict8lgze",
+        "type": "crop",
+        "label": "Added Potato \u00b7 3 MT",
+        "sub": "chitradurga \u00b7 Chitradurga",
+        "at": "2026-06-22T12:08:55.113Z"
+      },
+      {
+        "at": "2026-06-22T11:53:37.549Z",
+        "id": "mqp5q0wdyg7fk0hdetn",
+        "label": "Stored Potato \u00b7 5 MT",
+        "sub": "freezer \u00b7 7 days",
+        "type": "storage"
+      },
+      {
+        "at": "2026-06-22T11:53:01.120Z",
+        "id": "mqp5p8sg8ekzjw0yh2l",
+        "label": "Added Potato \u00b7 5 MT",
+        "sub": "chitradurga \u00b7 Chitradurga",
+        "type": "crop"
+      },
+      {
+        "at": "2026-06-22T11:24:05.531Z",
+        "id": "mqp4o1lnnqjrczjtjuj",
+        "label": "Stored Tomato \u00b7 10 MT",
+        "sub": "freezer \u00b7 14 days",
+        "type": "storage"
+      },
+      {
+        "at": "2026-06-22T11:23:37.948Z",
+        "id": "mqp4ngbgv4g7lk23lep",
+        "label": "Added Tomato \u00b7 10 MT",
+        "sub": "Chitradurga \u00b7 Chitradurga",
+        "type": "crop"
+      }
+    ],
+    "1234567890": [
+      {
+        "at": "2026-06-22T11:46:08.348Z",
+        "id": "mqp5geakyvdh56zrv7p",
+        "label": "Registered as rt",
+        "sub": "Submitted to KrishiSetu",
+        "type": "business"
+      }
+    ],
+    "1234567809": [],
+    "8989898989": [],
+    "8787878787": [],
+    "6767676767": [],
+    "6767676766": [],
+    "6767666666": [],
+    "6666677777": [],
+    "6766667777": [],
+    "6767676677": [],
+    "6677766677": [
+      {
+        "id": "mqqdcz1npvn2fwc2ft",
+        "type": "crop",
+        "label": "Added Onion \u00b7 10 MT",
+        "sub": "Bag \u00b7 Bagalkot",
+        "at": "2026-06-23T08:15:11.723Z"
+      }
+    ],
+    "6767667666": [],
+    "6767666777": [],
+    "6766776766": [],
+    "6677777777": [],
+    "9879879879": [],
+    "8999999999": [],
+    "8999999998": [
+      {
+        "id": "mqqhk0d7h99j273s2zs",
+        "type": "crop",
+        "label": "Added Potato \u00b7 100 MT",
+        "sub": "hhh \u00b7 Chitradurga",
+        "at": "2026-06-23T10:12:38.491Z"
+      },
+      {
+        "id": "mqqhi7u80gy4u7l2eohi",
+        "type": "crop",
+        "label": "Added Potato \u00b7 5 MT",
+        "sub": "jjhij \u00b7 Chitradurga",
+        "at": "2026-06-23T10:11:14.864Z"
+      },
+      {
+        "id": "mqqhhf6j5e16urrmagh",
+        "type": "storage",
+        "label": "Stored Potato \u00b7 9 MT",
+        "sub": "freezer \u00b7 7 days",
+        "at": "2026-06-23T10:10:37.723Z"
+      },
+      {
+        "id": "mqqhgs8id41wlpr891b",
+        "type": "crop",
+        "label": "Added Potato \u00b7 9 MT",
+        "sub": "CHitradurga \u00b7 Chitradurga",
+        "at": "2026-06-23T10:10:07.986Z"
+      }
+    ],
+    "9898999999": [],
+    "9879879877": []
+  },
+  "bizdata": {
+    "5544332211": {},
+    "9988776655": {},
+    "9977553311": {},
+    "9898989898": {},
+    "8888888888": {
+      "storage": [
+        {
+          "cap": "100",
+          "crops": "All",
+          "district": "Mandya",
+          "facility": "AgroFreeze",
+          "phone": "8888888888",
+          "rate": "17"
+        }
+      ]
+    },
+    "7777777777": {},
+    "9999999999": {
+      "storage": [
+        {
+          "cap": "120",
+          "crops": "ALL",
+          "district": "Chitradurga",
+          "facility": "freezer",
+          "phone": "9999999999",
+          "rate": "150"
+        },
+        {
+          "cap": "100",
+          "crops": "All",
+          "district": "Chitradurga",
+          "facility": "refreezer",
+          "phone": "9999999999",
+          "rate": "100"
+        }
+      ]
+    },
+    "8888888889": {},
+    "1234567890": {
+      "transport": [
+        {
+          "name": "rt",
+          "vehicle": "Medium Truck (407)",
+          "district": "Belagavi",
+          "rate": "2",
+          "cap": "10",
+          "phone": "1234567890",
+          "avDays": "10"
+        }
+      ]
+    },
+    "1234567809": {},
+    "8989898989": {},
+    "8787878787": {},
+    "6767676767": {},
+    "6767676766": {},
+    "6767666666": {},
+    "6666677777": {},
+    "6766667777": {},
+    "6767676677": {},
+    "6677766677": {},
+    "6767667666": {},
+    "6767666777": {},
+    "6766776766": {},
+    "6677777777": {},
+    "9879879879": {},
+    "8999999999": {},
+    "8999999998": {},
+    "9898999999": {},
+    "9879879877": {}
+  },
+  "crops": {
+    "5544332211": [],
+    "9988776655": [],
+    "9977553311": [],
+    "9898989898": [
+      {
+        "addedAt": "2026-06-22T07:10:04.874Z",
+        "bridgeId": "682f0b69-0f58-4929-b502-394985c61934",
+        "daysUntilHarvest": 0,
+        "district": "Gadag",
+        "emoji": "\ud83e\uddc5",
+        "id": "Onion-Gadag-1782112204874",
+        "name": "Onion",
+        "qty": 10,
+        "status": "pending",
+        "village": "Gadag"
+      },
+      {
+        "addedAt": "2026-06-22T09:58:54.129Z",
+        "daysUntilHarvest": 0,
+        "district": "Mysuru",
+        "emoji": "\ud83e\udd6d",
+        "id": "Mango-Mysuru-1782122334129",
+        "name": "Mango",
+        "qty": 10,
+        "status": "pending",
+        "village": "Mysuru"
+      },
+      {
+        "addedAt": "2026-06-22T10:00:59.280Z",
+        "daysUntilHarvest": 0,
+        "district": "Mandya",
+        "emoji": "\ud83e\udd6d",
+        "id": "Mango-Mandya-1782122459280",
+        "name": "Mango",
+        "qty": 5,
+        "status": "pending",
+        "village": "Mandya"
+      },
+      {
+        "addedAt": "2026-06-22T10:06:16.774Z",
+        "bridgeId": "bdf7efef-e55c-44d1-9a3a-217dbf9c7817",
+        "daysUntilHarvest": 0,
+        "district": "Dharwad",
+        "emoji": "\ud83c\udf45",
+        "id": "Tomato-Dharwad-1782122776774",
+        "name": "Tomato",
+        "qty": 8,
+        "status": "pending",
+        "village": "Dharward"
+      },
+      {
+        "addedAt": "2026-06-22T10:13:29.183Z",
+        "bridgeId": "9346de93-96b9-4a36-bb8e-6db193a7eb30",
+        "daysUntilHarvest": 0,
+        "district": "Kolar",
+        "emoji": "\ud83e\uded8",
+        "id": "Beans-Kolar-1782123209183",
+        "name": "Beans",
+        "qty": 15,
+        "status": "pending",
+        "village": "Kolar"
+      },
+      {
+        "addedAt": "2026-06-22T10:20:27.000Z",
+        "bridgeId": "30af7a4f-b97b-46f9-9c49-645b1509aea1",
+        "daysUntilHarvest": 0,
+        "district": "Kolar",
+        "emoji": "\ud83e\udd6c",
+        "id": "Cabbage-Kolar-1782123627000",
+        "name": "Cabbage",
+        "qty": 10,
+        "status": "pending",
+        "village": "Kolar"
+      },
+      {
+        "addedAt": "2026-06-22T10:23:02.155Z",
+        "bridgeId": "b05acb02-6b20-44cb-8f5b-2778cec8319b",
+        "daysUntilHarvest": 0,
+        "district": "Mandya",
+        "emoji": "\ud83e\udd54",
+        "id": "Potato-Mandya-1782123782155",
+        "name": "Potato",
+        "qty": 10,
+        "status": "pending",
+        "village": "Mandya"
+      },
+      {
+        "addedAt": "2026-06-22T10:23:34.026Z",
+        "bridgeId": "25150397-d0af-4d6b-8ddc-05ac5be8defa",
+        "daysUntilHarvest": 0,
+        "district": "Davanagere",
+        "emoji": "\ud83e\udd54",
+        "id": "Potato-Davanagere-1782123814026",
+        "name": "Potato",
+        "qty": 1,
+        "status": "pending",
+        "village": "Davanagere"
+      },
+      {
+        "addedAt": "2026-06-22T10:42:22.228Z",
+        "bridgeId": "5b1b4885-2038-4c50-8338-d3008b03f6f8",
+        "daysUntilHarvest": 0,
+        "district": "Koppal",
+        "emoji": "\ud83c\udf4c",
+        "id": "Banana-Koppal-1782124942228",
+        "name": "Banana",
+        "qty": 9,
+        "status": "pending",
+        "village": "Koppal"
+      },
+      {
+        "addedAt": "2026-06-22T10:43:49.303Z",
+        "bridgeId": "20d44af1-6904-47c6-8b9f-5c59daeff509",
+        "daysUntilHarvest": 0,
+        "district": "Haveri",
+        "emoji": "\ud83e\udd6c",
+        "id": "Cabbage-Haveri-1782125029303",
+        "name": "Cabbage",
+        "qty": 9,
+        "status": "pending",
+        "village": "Haveri"
+      },
+      {
+        "addedAt": "2026-06-22T10:44:28.416Z",
+        "bridgeId": "d7bc4fbb-6c02-4302-ae4c-f48b60161ae1",
+        "daysUntilHarvest": 0,
+        "district": "Dharwad",
+        "emoji": "\ud83e\udd6d",
+        "id": "Mango-Dharwad-1782125068416",
+        "name": "Mango",
+        "qty": 9,
+        "status": "pending",
+        "village": "Dharwad"
+      },
+      {
+        "addedAt": "2026-06-22T10:45:03.051Z",
+        "bridgeId": "cc9accd8-99ba-40be-966d-9563d0eaa23d",
+        "daysUntilHarvest": 0,
+        "district": "Kalaburagi",
+        "emoji": "\ud83e\uddc5",
+        "id": "Onion-Kalaburagi-1782125103051",
+        "name": "Onion",
+        "qty": 7,
+        "status": "pending",
+        "village": "Kalaburgi"
+      },
+      {
+        "addedAt": "2026-06-23T05:07:05.483Z",
+        "bridgeId": "b685bc1d-4561-469a-91cc-d53eeb79f6eb",
+        "daysUntilHarvest": 0,
+        "deal": {
+          "cost": 11900,
+          "days": 7,
+          "facility": "AgroFreeze",
+          "id": "BK-HSCVP8"
+        },
+        "district": "Mysuru",
+        "emoji": "\ud83c\udf4c",
+        "id": "Banana-Mysuru-1782191225483",
+        "name": "Banana",
+        "qty": 100,
+        "status": "stored",
+        "village": "Mysuru"
+      },
+      {
+        "addedAt": "2026-06-23T05:35:11.354Z",
+        "bridgeId": "5393602e-5ee6-4cb5-adc8-a56ce8cfe87d",
+        "daysUntilHarvest": 0,
+        "deal": {
+          "cost": 5100,
+          "days": 30,
+          "facility": "AgroFreeze",
+          "id": "BK-W8VJNK"
+        },
+        "district": "Mysuru",
+        "emoji": "\ud83e\uded8",
+        "id": "Beans-Mysuru-1782192911354",
+        "name": "Beans",
+        "qty": 10,
+        "status": "stored",
+        "village": "Mysuru"
+      },
+      {
+        "addedAt": "2026-06-23T05:41:16.483Z",
+        "bridgeId": "cd60e732-ddc5-44e8-8e6f-52144e1b570f",
+        "daysUntilHarvest": 0,
+        "deal": {
+          "cost": 1190,
+          "days": 7,
+          "facility": "AgroFreeze",
+          "id": "BK-9FZIW7"
+        },
+        "district": "Mandya",
+        "emoji": "\ud83e\udd6d",
+        "id": "Mango-Mandya-1782193276483",
+        "name": "Mango",
+        "qty": 10,
+        "status": "stored",
+        "village": "Mandya"
+      },
+      {
+        "id": "Cabbage-Mysuru-1782193574418",
+        "name": "Cabbage",
+        "emoji": "\ud83e\udd6c",
+        "qty": 15,
+        "district": "Mysuru",
+        "village": "Mysore",
+        "daysUntilHarvest": 0,
+        "status": "stored",
+        "addedAt": "2026-06-23T05:46:14.418Z",
+        "bridgeId": "93fda511-559b-4bc7-9b15-f0f89cda9755",
+        "deal": {
+          "id": "BK-NTKSQB",
+          "facility": "AgroFreeze",
+          "days": 7,
+          "cost": 1785
+        }
+      }
+    ],
+    "8888888888": [],
+    "7777777777": [
+      {
+        "addedAt": "2026-06-22T09:44:42.911Z",
+        "bridgeId": "b091b75a-8710-47e8-b1f5-ec3fccb3e5be",
+        "daysUntilHarvest": 0,
+        "district": "Mysuru",
+        "emoji": "\ud83e\udd6c",
+        "id": "Cabbage-Mysuru-1782121482911",
+        "name": "Cabbage",
+        "qty": 14,
+        "status": "pending",
+        "village": "Mysuru"
+      },
+      {
+        "addedAt": "2026-06-22T09:52:50.166Z",
+        "bridgeId": "9af17f59-41d6-4c53-89a8-d97733e20a42",
+        "daysUntilHarvest": 0,
+        "district": "Dharwad",
+        "emoji": "\ud83c\udf45",
+        "id": "Tomato-Dharwad-1782121970166",
+        "name": "Tomato",
+        "qty": 10,
+        "status": "pending",
+        "village": "Dharwad"
+      }
+    ],
+    "9999999999": [],
+    "8888888889": [
+      {
+        "addedAt": "2026-06-22T11:23:37.688Z",
+        "bridgeId": "57223bb0-1242-45ef-bf51-058f3b02c869",
+        "daysUntilHarvest": 0,
+        "deal": {
+          "cost": 21000,
+          "days": 14,
+          "facility": "freezer",
+          "id": "BK-RY7P9J"
+        },
+        "district": "Chitradurga",
+        "emoji": "\ud83c\udf45",
+        "id": "Tomato-Chitradurga-1782127417688",
+        "name": "Tomato",
+        "qty": 10,
+        "status": "stored",
+        "village": "Chitradurga"
+      },
+      {
+        "addedAt": "2026-06-22T11:53:00.713Z",
+        "bridgeId": "93891ba3-caa8-458b-b2cc-60e3a119a826",
+        "daysUntilHarvest": 0,
+        "deal": {
+          "cost": 5250,
+          "days": 7,
+          "facility": "freezer",
+          "id": "BK-HL2LDA"
+        },
+        "district": "Chitradurga",
+        "emoji": "\ud83e\udd54",
+        "id": "Potato-Chitradurga-1782129180713",
+        "name": "Potato",
+        "qty": 5,
+        "status": "stored",
+        "village": "chitradurga"
+      },
+      {
+        "id": "Potato-Chitradurga-1782130134938",
+        "name": "Potato",
+        "emoji": "\ud83e\udd54",
+        "qty": 3,
+        "district": "Chitradurga",
+        "village": "chitradurga",
+        "daysUntilHarvest": 0,
+        "status": "stored",
+        "addedAt": "2026-06-22T12:08:54.938Z",
+        "bridgeId": "86a629bf-0409-463f-aeb9-187502660c40",
+        "deal": {
+          "id": "BK-2P1OIW",
+          "facility": "freezer",
+          "days": 7,
+          "cost": 3150
+        }
+      }
+    ],
+    "1234567890": [],
+    "1234567809": [],
+    "8989898989": [],
+    "8787878787": [],
+    "6767676767": [],
+    "6767676766": [],
+    "6767666666": [],
+    "6666677777": [],
+    "6766667777": [],
+    "6767676677": [],
+    "6677766677": [
+      {
+        "id": "Onion-Bagalkot-1782202511513",
+        "name": "Onion",
+        "emoji": "\ud83e\uddc5",
+        "qty": 10,
+        "district": "Bagalkot",
+        "village": "Bag",
+        "daysUntilHarvest": 0,
+        "status": "pending",
+        "addedAt": "2026-06-23T08:15:11.513Z",
+        "bridgeId": "4f64b246-ac85-4284-aa56-a5d7007e8bf9"
+      }
+    ],
+    "6767667666": [],
+    "6767666777": [],
+    "6766776766": [],
+    "6677777777": [],
+    "9879879879": [],
+    "8999999999": [],
+    "8999999998": [
+      {
+        "id": "Potato-Chitradurga-1782209407813",
+        "name": "Potato",
+        "emoji": "\ud83e\udd54",
+        "qty": 9,
+        "district": "Chitradurga",
+        "village": "CHitradurga",
+        "daysUntilHarvest": 0,
+        "status": "stored",
+        "addedAt": "2026-06-23T10:10:07.813Z",
+        "bridgeId": "43f8fd0e-4578-4007-9319-7591e87381a6",
+        "deal": {
+          "id": "BK-7BIZ85",
+          "facility": "freezer",
+          "days": 7,
+          "cost": 9450
+        }
+      },
+      {
+        "id": "Potato-Chitradurga-1782209474660",
+        "name": "Potato",
+        "emoji": "\ud83e\udd54",
+        "qty": 5,
+        "district": "Chitradurga",
+        "village": "jjhij",
+        "daysUntilHarvest": 9,
+        "status": "pending",
+        "addedAt": "2026-06-23T10:11:14.660Z",
+        "bridgeId": "912dd28d-f7db-47c2-9bf0-7cc37e745342"
+      },
+      {
+        "id": "Potato-Chitradurga-1782209558279",
+        "name": "Potato",
+        "emoji": "\ud83e\udd54",
+        "qty": 100,
+        "district": "Chitradurga",
+        "village": "hhh",
+        "daysUntilHarvest": 0,
+        "status": "pending",
+        "addedAt": "2026-06-23T10:12:38.279Z",
+        "bridgeId": "44c91c82-ffc7-4f71-b9e4-bfaf6567c906"
+      }
+    ],
+    "9898999999": [],
+    "9879879877": []
+  },
+  "storageBookings": {}
+}

@@ -1,0 +1,706 @@
+{
+  "17150639": {
+    "status": "available"
+  },
+  "60f89485": {
+    "status": "unmatched"
+  },
+  "c9d3b47c": {
+    "status": "unmatched"
+  },
+  "20c5ae46": {
+    "status": "unmatched"
+  },
+  "73b9da02": {
+    "status": "available"
+  },
+  "ff2e31cf": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "350cf446": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "73f9eefb": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "478dddb0": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "996b4e30": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "664854f6": {
+    "status": "available"
+  },
+  "41feb8dd": {
+    "status": "full",
+    "entity_type": "storage",
+    "available_capacity_mt": 0
+  },
+  "73b745a7": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "32de0bc9": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "ea1065ff": {
+    "status": "matched",
+    "harvest_date": "2026-06-16",
+    "entity_type": "farmer"
+  },
+  "859b3d2c": {
+    "entity_type": "trader",
+    "status": "active",
+    "crops": [
+      "All"
+    ],
+    "buy_districts": [
+      "Bengaluru Rural",
+      "Tumkur",
+      "Kolar"
+    ]
+  },
+  "24912522": {
+    "status": "booked",
+    "harvest_date": "2026-06-15",
+    "entity_type": "farmer",
+    "trade_signal": "HOLD_21",
+    "last_price_qt": 4148,
+    "signal_updated_at": "2026-06-18"
+  },
+  "c7e974cd": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer",
+    "trade_signal": "SELL_NOW",
+    "last_price_qt": 2251,
+    "signal_updated_at": "2026-06-12"
+  },
+  "5b618e01": {
+    "entity_type": "storage",
+    "status": "full",
+    "available_capacity_mt": 0
+  },
+  "e0bd4d67": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "4decae72": {
+    "status": "booked",
+    "entity_type": "farmer",
+    "sell_date": "2026-07-07",
+    "storage_days": 21,
+    "trade_signal": "HOLD_21"
+  },
+  "784083bb": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "7b8dfddf": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "47aec7a4": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "4b8c13d4": {
+    "entity_type": "transporter",
+    "status": "available"
+  },
+  "b56af88b": {
+    "entity_type": "trader",
+    "status": "active",
+    "crops": [
+      "Mango",
+      "Banana"
+    ],
+    "buy_districts": [
+      "All Karnataka"
+    ]
+  },
+  "5580391f": {
+    "status": "booked",
+    "harvest_date": "2026-06-20",
+    "entity_type": "farmer",
+    "sell_date": "2026-07-11",
+    "storage_days": 21,
+    "trade_signal": "HOLD_21"
+  },
+  "290879f7": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "3696bdd3": {
+    "status": "booked",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer",
+    "sell_date": "2026-07-09",
+    "storage_days": 21,
+    "trade_signal": "HOLD_21"
+  },
+  "27f25250": {
+    "status": "booked",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer",
+    "sell_date": "2026-07-09",
+    "storage_days": 21,
+    "trade_signal": "HOLD_21"
+  },
+  "106b9b7b": {
+    "entity_type": "storage",
+    "available_capacity_mt": 0,
+    "status": "full"
+  },
+  "4d20f562": {
+    "entity_type": "storage",
+    "available_capacity_mt": 0,
+    "status": "full"
+  },
+  "bdf9ce84": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 90.0
+  },
+  "9dd8c583": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "ec875fd9": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "17b4f1ef": {
+    "entity_type": "storage",
+    "available_capacity_mt": 0,
+    "status": "full"
+  },
+  "2a74169b": {
+    "entity_type": "storage",
+    "available_capacity_mt": 120.0,
+    "status": "available"
+  },
+  "344093ea": {
+    "entity_type": "storage",
+    "available_capacity_mt": 0.0,
+    "status": "full"
+  },
+  "741e3d10": {
+    "status": "booked",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer",
+    "sell_date": "2026-07-08",
+    "storage_days": 21,
+    "trade_signal": "HOLD_21"
+  },
+  "5af5caa1": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "5d345efc": {
+    "status": "booked",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer",
+    "sell_date": "2026-07-09",
+    "storage_days": 21,
+    "trade_signal": "HOLD_21"
+  },
+  "c5cb1561": {
+    "status": "unmatched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "f0bf0125": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "1e3cafd1": {
+    "status": "matched",
+    "harvest_date": "2026-06-16",
+    "entity_type": "farmer"
+  },
+  "6f8143d6": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "928edf2e": {
+    "status": "matched",
+    "harvest_date": "2026-06-16",
+    "entity_type": "farmer"
+  },
+  "e59687f4": {
+    "status": "matched",
+    "harvest_date": "2026-06-16",
+    "entity_type": "farmer"
+  },
+  "a3919bb2": {
+    "status": "matched",
+    "harvest_date": "2026-06-16",
+    "entity_type": "farmer"
+  },
+  "35a51385": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 10.0
+  },
+  "f7740349": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "6bf85194": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "89366c3d": {
+    "entity_type": "storage",
+    "available_capacity_mt": 100.0,
+    "status": "available"
+  },
+  "0eab6597": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "d6f06f57": {
+    "entity_type": "storage",
+    "available_capacity_mt": 10.0,
+    "status": "available"
+  },
+  "a0f57529": {
+    "entity_type": "storage",
+    "available_capacity_mt": 120.0,
+    "status": "available"
+  },
+  "9d6d2159": {
+    "status": "booked",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer",
+    "sell_date": "2026-06-24",
+    "storage_days": 7,
+    "trade_signal": "HOLD_7"
+  },
+  "22deb6d6": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 100.0
+  },
+  "24c41ad0": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "d21235fc": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 1000.0
+  },
+  "e448e2e6": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 5.0
+  },
+  "7fa9af43": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 10.0
+  },
+  "fe855d59": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "dbbf5459": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 5.0
+  },
+  "0f811859": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "a602f6b9": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "f46982b9": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "973c3891": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "9d9b4c1d": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "4ddcbf3f": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "c002d2bd": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "dbb066d3": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "53e37275": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "821e1971": {
+    "status": "matched",
+    "harvest_date": "2026-06-17",
+    "entity_type": "farmer"
+  },
+  "1156d3fa": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "7ba2a799": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "f21a6b06": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "049469e8": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "5855443e": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "cdfa8350": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 120.0
+  },
+  "f39d07bc": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "6086658f": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "04c022b8": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "27f13794": {
+    "status": "matched",
+    "harvest_date": "2026-06-18",
+    "entity_type": "farmer"
+  },
+  "ecc8a13d": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 100.0
+  },
+  "fbe76ddf": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 500.0
+  },
+  "3b8c3c74": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 9.0
+  },
+  "d48bde28": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "ca7af83a": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "886cb0e9": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "0aea14a1": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "7c25857e": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "644c58a1": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "c8e3ebfc": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "37455c34": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "ab78e9a6": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "da6ffa09": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "f7e4b873": {
+    "status": "matched",
+    "harvest_date": "2026-06-19",
+    "entity_type": "farmer"
+  },
+  "9dd9adc2": {
+    "status": "matched",
+    "harvest_date": "2026-06-20",
+    "entity_type": "farmer"
+  },
+  "77a79e54": {
+    "status": "matched",
+    "harvest_date": "2026-06-20",
+    "entity_type": "farmer"
+  },
+  "f70944f7": {
+    "status": "matched",
+    "harvest_date": "2026-06-20",
+    "entity_type": "farmer"
+  },
+  "2bc055c6": {
+    "status": "matched",
+    "harvest_date": "2026-06-20",
+    "entity_type": "farmer"
+  },
+  "ae38d9a3": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "b1e4f5bb": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "8d6786c9": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 120.0
+  },
+  "3ee8308f": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "df448005": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "323c8b64": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "2423dbcb": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "45f67118": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "a2649290": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "b13fb2ac": {
+    "status": "matched",
+    "entity_type": "farmer"
+  },
+  "6092774e": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "682f0b69": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "aa491601": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 100.0
+  },
+  "b091b75a": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "9af17f59": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "1f0d1e6f": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "4a530951": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "bdf7efef": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "9346de93": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "30af7a4f": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "b05acb02": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "25150397": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "5b1b4885": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "20d44af1": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "d7bc4fbb": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "cc9accd8": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "2ec69ac0": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 120.0
+  },
+  "27c3f51b": {
+    "entity_type": "storage",
+    "status": "available",
+    "available_capacity_mt": 100.0
+  },
+  "57223bb0": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "93891ba3": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "86a629bf": {
+    "status": "matched",
+    "harvest_date": "2026-06-22",
+    "entity_type": "farmer"
+  },
+  "b685bc1d": {
+    "status": "matched",
+    "harvest_date": "2026-06-23",
+    "entity_type": "farmer"
+  },
+  "5393602e": {
+    "status": "matched",
+    "harvest_date": "2026-06-23",
+    "entity_type": "farmer"
+  },
+  "cd60e732": {
+    "status": "matched",
+    "harvest_date": "2026-06-23",
+    "entity_type": "farmer"
+  },
+  "93fda511": {
+    "status": "matched",
+    "harvest_date": "2026-06-23",
+    "entity_type": "farmer"
+  },
+  "4f64b246": {
+    "status": "matched",
+    "harvest_date": "2026-06-23",
+    "entity_type": "farmer"
+  },
+  "43f8fd0e": {
+    "status": "matched",
+    "harvest_date": "2026-06-23",
+    "entity_type": "farmer"
+  },
+  "912dd28d": {
+    "status": "matched",
+    "harvest_date": "2026-07-02",
+    "entity_type": "farmer"
+  },
+  "44c91c82": {
+    "status": "matched",
+    "harvest_date": "2026-06-23",
+    "entity_type": "farmer"
+  }
+}

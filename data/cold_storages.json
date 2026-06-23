@@ -1,0 +1,319 @@
+[
+  {
+    "id": "4d20f562",
+    "registered_at": "2026-06-10T15:03:47",
+    "facility_name": "Ram Storages",
+    "operator_name": "Keli Ram",
+    "phone": "9797979798",
+    "district": "Mandya",
+    "address": "Central",
+    "available_capacity_mt": 0,
+    "available_from": "2026-06-15",
+    "available_until": "2026-07-15",
+    "supported_crops": [
+      "Onion",
+      "Carrot",
+      "Beans"
+    ],
+    "rate_per_mt_per_day": 50.0,
+    "minimum_quantity_mt": 5.0,
+    "notes": "-",
+    "status": "full",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "2a74169b",
+    "registered_at": "2026-06-10T15:46:27",
+    "facility_name": "Gopi House",
+    "operator_name": "Gopi Sundar",
+    "phone": "8545648312",
+    "district": "Raichur",
+    "address": "Raichur",
+    "available_capacity_mt": 120.0,
+    "available_from": "2026-06-13",
+    "available_until": "2026-07-13",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 20.0,
+    "minimum_quantity_mt": 5.0,
+    "notes": "-",
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "344093ea",
+    "registered_at": "2026-06-10T16:13:41",
+    "facility_name": "Koppa Ward",
+    "operator_name": "Basappa Naidu",
+    "phone": "9374982338",
+    "district": "Koppal",
+    "address": "Koppa",
+    "available_capacity_mt": 0.0,
+    "available_from": "2026-06-13",
+    "available_until": "2026-07-12",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 20.0,
+    "minimum_quantity_mt": 0.0,
+    "notes": "-",
+    "status": "full",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "106b9b7b",
+    "registered_at": "2026-06-11T14:22:35",
+    "facility_name": "Raju Transports",
+    "operator_name": "Basappa",
+    "phone": "9894374637",
+    "district": "Bengaluru Rural",
+    "address": "Doddaballapura",
+    "available_capacity_mt": 0,
+    "available_from": "2026-06-15",
+    "available_until": "2026-08-04",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 10.0,
+    "minimum_quantity_mt": 3.0,
+    "notes": "-",
+    "status": "full",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "17b4f1ef",
+    "registered_at": "2026-06-11T16:11:49",
+    "facility_name": "Das Deals",
+    "operator_name": "Mohana",
+    "phone": "9372839271",
+    "district": "Bengaluru Rural",
+    "address": "Doddaballapura",
+    "available_capacity_mt": 0,
+    "available_from": "2026-06-15",
+    "available_until": "2026-07-15",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 10.0,
+    "minimum_quantity_mt": 5.0,
+    "notes": "-",
+    "status": "full",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "41feb8dd",
+    "registered_at": "2026-06-11T16:28:12",
+    "facility_name": "Dhanvantri Infrastorage",
+    "operator_name": "Shekar Kamya",
+    "phone": "9278392787",
+    "district": "Kolar",
+    "address": "Kolar",
+    "available_capacity_mt": 0,
+    "available_from": "2026-06-13",
+    "available_until": "2026-07-13",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 12.0,
+    "minimum_quantity_mt": 3.0,
+    "notes": "-",
+    "status": "full",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "5b618e01",
+    "registered_at": "2026-06-15T07:19:08",
+    "facility_name": "Farm Storage",
+    "operator_name": "Deva Surya",
+    "phone": "8937412903",
+    "district": "Hubli",
+    "address": "Hubli",
+    "available_capacity_mt": 0,
+    "available_from": "2026-06-18",
+    "available_until": "2026-07-18",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 10.0,
+    "minimum_quantity_mt": 5.0,
+    "notes": "-",
+    "status": "full",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "bdf9ce84",
+    "registered_at": "2026-06-15T12:15:56",
+    "facility_name": "Das Deals Extension",
+    "operator_name": "Das Dassu",
+    "phone": "9834348192",
+    "district": "Kolar",
+    "address": "KR Puram",
+    "available_capacity_mt": 90.0,
+    "available_from": "2026-06-17",
+    "available_until": "2026-07-17",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 10.0,
+    "minimum_quantity_mt": 1.0,
+    "notes": "-",
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "35a51385",
+    "registered_at": "2026-06-16T17:01:10",
+    "facility_name": "AgroFreeze Mysuru",
+    "operator_name": "ramesh kumar",
+    "phone": "9876543210",
+    "district": "Mysuru",
+    "address": "Mysuru",
+    "available_capacity_mt": 10.0,
+    "available_from": "2026-06-16",
+    "available_until": "2026-06-25",
+    "supported_crops": [
+      "Tomato"
+    ],
+    "rate_per_mt_per_day": 165.0,
+    "minimum_quantity_mt": null,
+    "notes": "Booking BK-KRFMW7 \u2014 Tomato 10MT for 9 days",
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "89366c3d",
+    "registered_at": "2026-06-16T18:08:38",
+    "facility_name": "J K facilities",
+    "operator_name": "Ramesha S",
+    "phone": "9595959595",
+    "district": "Bengaluru Rural",
+    "address": "Doddaballapura village",
+    "available_capacity_mt": 100.0,
+    "available_from": "2026-06-16",
+    "available_until": "2026-07-13",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 10.0,
+    "minimum_quantity_mt": null,
+    "notes": "-",
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "d6f06f57",
+    "registered_at": "2026-06-17T10:49:57",
+    "facility_name": "Annapurna Cold Chain Kolar",
+    "operator_name": "ramesh kumar",
+    "phone": "9876543210",
+    "district": "Kolar",
+    "address": "Hoskote",
+    "available_capacity_mt": 10.0,
+    "available_from": "2026-06-17",
+    "available_until": "2026-07-17",
+    "supported_crops": [
+      "Potato"
+    ],
+    "rate_per_mt_per_day": 151.0,
+    "minimum_quantity_mt": null,
+    "notes": "Booking BK-DEUHE5 \u2014 Potato 10MT for 30 days",
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "a0f57529",
+    "registered_at": "2026-06-17T11:03:57",
+    "facility_name": "storastore",
+    "operator_name": "shetty reddy",
+    "phone": "1122334455",
+    "district": "Kolar",
+    "address": "kolar near statue next to a park bench",
+    "available_capacity_mt": 120.0,
+    "available_from": "2026-06-17",
+    "available_until": "2026-07-17",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 100.0,
+    "minimum_quantity_mt": null,
+    "notes": "-",
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "22deb6d6",
+    "registered_at": "2026-06-17T11:18:09",
+    "facility_name": "store",
+    "operator_name": "moka",
+    "phone": "8866442200",
+    "district": "Kolar",
+    "address": "kolar",
+    "available_capacity_mt": 100.0,
+    "available_from": "2026-06-17",
+    "available_until": "2026-07-17",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 50.0,
+    "minimum_quantity_mt": null,
+    "notes": null,
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "d21235fc",
+    "registered_at": "2026-06-17T12:00:42",
+    "facility_name": "snjerw",
+    "operator_name": "kkkk",
+    "phone": "8765432110",
+    "district": "Kolar",
+    "address": "kolar",
+    "available_capacity_mt": 1000.0,
+    "available_from": "2026-06-17",
+    "available_until": "2026-07-17",
+    "supported_crops": [
+      "All"
+    ],
+    "rate_per_mt_per_day": 50.0,
+    "minimum_quantity_mt": null,
+    "notes": null,
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  },
+  {
+    "id": "e448e2e6",
+    "registered_at": "2026-06-17T12:01:36",
+    "facility_name": "snjerw",
+    "operator_name": "suresh babu",
+    "phone": "5544332211",
+    "district": "Kolar",
+    "address": "kolar",
+    "available_capacity_mt": 5.0,
+    "available_from": "2026-06-17",
+    "available_until": "2026-06-24",
+    "supported_crops": [
+      "Onion"
+    ],
+    "rate_per_mt_per_day": 50.0,
+    "minimum_quantity_mt": null,
+    "notes": "Booking BK-6CT1VG \u2014 Onion 5MT for 7 days via raju trs",
+    "status": "available",
+    "source": "bridge_report",
+    "blocked_dates": []
+  }
+]
